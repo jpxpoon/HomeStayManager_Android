@@ -1,1 +1,1 @@
-= HomeStayManager_Android
+== HomeStayManager_Android
