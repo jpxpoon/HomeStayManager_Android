@@ -1,0 +1,1 @@
+= HomeStayManager_Android
